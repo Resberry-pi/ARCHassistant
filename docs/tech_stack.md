@@ -14,7 +14,6 @@ Arch Assistant is built with open-source libraries and APIs:
 - [ThreadPoolExecutor](https://docs.python.org/3/library/concurrent.futures.html) - Parallelism
 
 APIs integrated:
-- Sarvam AI
+- OLLAMA
 - Google Gemini
-- DeepSeek
-- (Optional) Perplexity, OpenAI, HuggingFace
+- LLAMA

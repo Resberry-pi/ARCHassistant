@@ -40,3 +40,12 @@ Copy code
 ## Starting Arch
 ```bash
 python arch_assistant.py
+
+ Real-time voice recognition
+- 🗣 Human-like speech synthesis
+- 🔀 API router: Sarvam + Gemini + DeepSeek
+- 🎶 Spotify voice automation
+- 📚 Wikipedia & knowledge integration
+- ⚡ Async + multithreading for speed
+- 🔌 Hardware-ready (STM32/ESP32 integration)
+- 🛠 Easy plugin system for new skills
